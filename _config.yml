@@ -1,0 +1,29 @@
+name: OutRunManila
+favicon: null
+layout_spectrum: 0.9616425237618387
+typography_spectrum: 0.4017682448029518
+title: Run with Pride!
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.06797642400488257
+  lightness: 0.4770559996832162
+  saturation: 0.2442891134414822
+  rhythmicContrast: 0.4627539971843362
+purpose: []
