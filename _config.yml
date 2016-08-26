@@ -1,7 +1,7 @@
 name: OutRunManila
 favicon: null
-layout_spectrum: 0.9616425237618387
-typography_spectrum: 0.4017682448029518
+layout_spectrum: 1
+typography_spectrum: 0.50177
 title: Run with Pride!
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#f9ee13'
     - '#f68c1f'
     - '#00ff00'
-  brandStrength: 0.06797642400488257
+  brandStrength: 0.5
   lightness: 0.4770559996832162
-  saturation: 0.2442891134414822
+  saturation: 0.5
   rhythmicContrast: 0.4627539971843362
 purpose: []
